@@ -1,0 +1,20 @@
+Step 1: Start the program.
+Step 2: Initialize the system by creating a Node structure with Station Name, Distance, and Fare.
+Step 3: Set head = NULL for linked list.
+Step 4: Initialize stack for history with top = -1.
+Step 5: Enter the main loop.
+Step 6: Display menu options (Add, Insert, Delete, Display, Reverse, Search, Total Distance, Total Fare, Travel Simulation, History, Exit).
+Step 7: Read user choice.
+Step 8: If choice is Add Station → input details and insert at end.
+Step 9: If choice is Insert Station → input position and insert accordingly.
+Step 10: If choice is Delete Station → search and delete node.
+Step 11: If choice is Display Route → traverse and print all stations.
+Step 12: If choice is Reverse Display → use recursion to print in reverse.
+Step 13: If choice is Search Station → find and display result.
+Step 14: If choice is Total Distance → calculate sum of distances.
+Step 15: If choice is Total Fare → calculate sum of fares.
+Step 16: If choice is Travel Simulation → traverse and push stations into stack.
+Step 17: If choice is Show History → display stack elements.
+Step 18: If choice is Exit → terminate program.
+Step 19: Repeat steps until Exit is selected.
+Step 20: End the program.
